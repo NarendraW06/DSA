@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/narendra-glitch/DSA/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/narendra-glitch/DSA/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/narendra-glitch/DSA/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -32,8 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/narendra-glitch/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/narendra-glitch/DSA/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/narendra-glitch/DSA/tree/master/0027-remove-element) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/narendra-glitch/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
