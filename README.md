@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/narendra-glitch/DSA/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/narendra-glitch/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/narendra-glitch/DSA/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/narendra-glitch/DSA/tree/master/0066-plus-one) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/narendra-glitch/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/narendra-glitch/DSA/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/narendra-glitch/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/narendra-glitch/DSA/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/narendra-glitch/DSA/tree/master/0231-power-of-two) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/narendra-glitch/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
