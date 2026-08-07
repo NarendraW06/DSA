@@ -61,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/narendra-glitch/DSA/tree/master/1929-concatenation-of-array) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/narendra-glitch/DSA/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
