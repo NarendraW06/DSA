@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/narendra-glitch/DSA/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/narendra-glitch/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/narendra-glitch/DSA/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/narendra-glitch/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/narendra-glitch/DSA/tree/master/0268-missing-number) |
 ## Simulation
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/narendra-glitch/DSA/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/narendra-glitch/DSA/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
 | ------- |
