@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/narendra-glitch/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/narendra-glitch/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/narendra-glitch/DSA/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/narendra-glitch/DSA/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/narendra-glitch/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/narendra-glitch/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/narendra-glitch/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -71,12 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/narendra-glitch/DSA/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/narendra-glitch/DSA/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/narendra-glitch/DSA/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/narendra-glitch/DSA/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/narendra-glitch/DSA/tree/master/0412-fizz-buzz) |
 ## Prefix Sum
 |  |
 | ------- |
