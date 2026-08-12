@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/narendra-glitch/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/narendra-glitch/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/narendra-glitch/DSA/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/narendra-glitch/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/narendra-glitch/DSA/tree/master/1480-running-sum-of-1d-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/narendra-glitch/DSA/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
