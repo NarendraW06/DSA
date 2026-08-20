@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/narendra-glitch/DSA/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/narendra-glitch/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/narendra-glitch/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/narendra-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/narendra-glitch/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0989-add-to-array-form-of-integer](https://github.com/narendra-glitch/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/narendra-glitch/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/narendra-glitch/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/narendra-glitch/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/narendra-glitch/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/narendra-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/narendra-glitch/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
@@ -72,12 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/narendra-glitch/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/narendra-glitch/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/narendra-glitch/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/narendra-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/narendra-glitch/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/narendra-glitch/DSA/tree/master/0367-valid-perfect-square) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/narendra-glitch/DSA/tree/master/0027-remove-element) |
+| [0287-find-the-duplicate-number](https://github.com/narendra-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/narendra-glitch/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Newton's Method
 |  |
@@ -145,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/narendra-glitch/DSA/tree/master/0509-fibonacci-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/narendra-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/narendra-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
