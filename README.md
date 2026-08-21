@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/narendra-glitch/DSA/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/narendra-glitch/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/narendra-glitch/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/narendra-glitch/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/narendra-glitch/DSA/tree/master/0268-missing-number) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/narendra-glitch/DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/narendra-glitch/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/narendra-glitch/DSA/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/narendra-glitch/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/narendra-glitch/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/narendra-glitch/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/narendra-glitch/DSA/tree/master/0367-valid-perfect-square) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/narendra-glitch/DSA/tree/master/0027-remove-element) |
+| [0202-happy-number](https://github.com/narendra-glitch/DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/narendra-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/narendra-glitch/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Newton's Method
@@ -156,5 +159,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/narendra-glitch/DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/narendra-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
