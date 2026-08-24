@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/narendra-glitch/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/narendra-glitch/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/narendra-glitch/DSA/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/narendra-glitch/DSA/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/narendra-glitch/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/narendra-glitch/DSA/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/narendra-glitch/DSA/tree/master/0989-add-to-array-form-of-integer) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/narendra-glitch/DSA/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/narendra-glitch/DSA/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/narendra-glitch/DSA/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/narendra-glitch/DSA/tree/master/0504-base-7) |
 | [0657-robot-return-to-origin](https://github.com/narendra-glitch/DSA/tree/master/0657-robot-return-to-origin) |
 | [3110-score-of-a-string](https://github.com/narendra-glitch/DSA/tree/master/3110-score-of-a-string) |
 ## Prefix Sum
