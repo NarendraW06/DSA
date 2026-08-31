@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/narendra-glitch/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/narendra-glitch/DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/narendra-glitch/DSA/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/narendra-glitch/DSA/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/narendra-glitch/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/narendra-glitch/DSA/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/narendra-glitch/DSA/tree/master/3099-harshad-number) |
@@ -140,18 +141,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/narendra-glitch/DSA/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/narendra-glitch/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/narendra-glitch/DSA/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/narendra-glitch/DSA/tree/master/2427-number-of-common-factors) |
 ## Euclidean Algorithm
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/narendra-glitch/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/narendra-glitch/DSA/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/narendra-glitch/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/narendra-glitch/DSA/tree/master/2427-number-of-common-factors) |
 ## Enumeration
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/narendra-glitch/DSA/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/narendra-glitch/DSA/tree/master/2427-number-of-common-factors) |
 ## Prime Factorization
 |  |
 | ------- |
