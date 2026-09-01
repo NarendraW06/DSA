@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/narendra-glitch/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/narendra-glitch/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/narendra-glitch/DSA/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/narendra-glitch/DSA/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/narendra-glitch/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/narendra-glitch/DSA/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/narendra-glitch/DSA/tree/master/0504-base-7) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/narendra-glitch/DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/narendra-glitch/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/narendra-glitch/DSA/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
