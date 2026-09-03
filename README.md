@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/narendra-glitch/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/narendra-glitch/DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/narendra-glitch/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/narendra-glitch/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3701-compute-alternating-sum](https://github.com/narendra-glitch/DSA/tree/master/3701-compute-alternating-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/narendra-glitch/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/narendra-glitch/DSA/tree/master/0657-robot-return-to-origin) |
 | [1920-build-array-from-permutation](https://github.com/narendra-glitch/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/narendra-glitch/DSA/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/narendra-glitch/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3701-compute-alternating-sum](https://github.com/narendra-glitch/DSA/tree/master/3701-compute-alternating-sum) |
 ## String
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/narendra-glitch/DSA/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/narendra-glitch/DSA/tree/master/0504-base-7) |
 | [0657-robot-return-to-origin](https://github.com/narendra-glitch/DSA/tree/master/0657-robot-return-to-origin) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/narendra-glitch/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/narendra-glitch/DSA/tree/master/3110-score-of-a-string) |
 ## Prefix Sum
 |  |
