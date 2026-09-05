@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/narendra-glitch/DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/narendra-glitch/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/narendra-glitch/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/narendra-glitch/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/narendra-glitch/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/narendra-glitch/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/narendra-glitch/DSA/tree/master/0268-missing-number) |
@@ -177,10 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/narendra-glitch/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/narendra-glitch/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/narendra-glitch/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/narendra-glitch/DSA/tree/master/0509-fibonacci-number) |
 ## Pigeonhole Principle
 |  |
