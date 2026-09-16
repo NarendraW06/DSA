@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/narendra-glitch/DSA/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/narendra-glitch/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/narendra-glitch/DSA/tree/master/3099-harshad-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/narendra-glitch/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3870-count-commas-in-range](https://github.com/narendra-glitch/DSA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/narendra-glitch/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/narendra-glitch/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/narendra-glitch/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3467-transform-array-by-parity](https://github.com/narendra-glitch/DSA/tree/master/3467-transform-array-by-parity) |
+| [3536-maximum-product-of-two-digits](https://github.com/narendra-glitch/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/narendra-glitch/DSA/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
