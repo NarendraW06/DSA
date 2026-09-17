@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/narendra-glitch/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/narendra-glitch/DSA/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/narendra-glitch/DSA/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/narendra-glitch/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/narendra-glitch/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/narendra-glitch/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/narendra-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/narendra-glitch/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/narendra-glitch/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/narendra-glitch/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/narendra-glitch/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/narendra-glitch/DSA/tree/master/0242-valid-anagram) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/narendra-glitch/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/narendra-glitch/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/narendra-glitch/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/narendra-glitch/DSA/tree/master/0268-missing-number) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/narendra-glitch/DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/narendra-glitch/DSA/tree/master/0191-number-of-1-bits) |
 ## Number Theory
 |  |
@@ -222,6 +226,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/narendra-glitch/DSA/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/narendra-glitch/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3467-transform-array-by-parity](https://github.com/narendra-glitch/DSA/tree/master/3467-transform-array-by-parity) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/narendra-glitch/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
