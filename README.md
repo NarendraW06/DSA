@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/narendra-glitch/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/narendra-glitch/DSA/tree/master/2706-buy-two-chocolates) |
 | [2942-find-words-containing-character](https://github.com/narendra-glitch/DSA/tree/master/2942-find-words-containing-character) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/narendra-glitch/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/narendra-glitch/DSA/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3467-transform-array-by-parity](https://github.com/narendra-glitch/DSA/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/narendra-glitch/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/narendra-glitch/DSA/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/narendra-glitch/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/narendra-glitch/DSA/tree/master/3099-harshad-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/narendra-glitch/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3536-maximum-product-of-two-digits](https://github.com/narendra-glitch/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/narendra-glitch/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/narendra-glitch/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
