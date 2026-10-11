@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/narendra-glitch/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/narendra-glitch/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/narendra-glitch/DSA/tree/master/2706-buy-two-chocolates) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/narendra-glitch/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/narendra-glitch/DSA/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/narendra-glitch/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/narendra-glitch/DSA/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/narendra-glitch/DSA/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/narendra-glitch/DSA/tree/master/2427-number-of-common-factors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/narendra-glitch/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Prime Factorization
 |  |
 | ------- |
