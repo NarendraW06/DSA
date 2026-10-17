@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/narendra-glitch/DSA/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3467-transform-array-by-parity](https://github.com/narendra-glitch/DSA/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/narendra-glitch/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/narendra-glitch/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/narendra-glitch/DSA/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/narendra-glitch/DSA/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/narendra-glitch/DSA/tree/master/3731-find-missing-elements) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/narendra-glitch/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/narendra-glitch/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/narendra-glitch/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/narendra-glitch/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/narendra-glitch/DSA/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/narendra-glitch/DSA/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/narendra-glitch/DSA/tree/master/3866-first-unique-even-element) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/narendra-glitch/DSA/tree/master/2706-buy-two-chocolates) |
 | [3467-transform-array-by-parity](https://github.com/narendra-glitch/DSA/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/narendra-glitch/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/narendra-glitch/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/narendra-glitch/DSA/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
