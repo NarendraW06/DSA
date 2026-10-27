@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/narendra-glitch/DSA/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/narendra-glitch/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/narendra-glitch/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/narendra-glitch/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/narendra-glitch/DSA/tree/master/0217-contains-duplicate) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/narendra-glitch/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/narendra-glitch/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Binary Search
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/narendra-glitch/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/narendra-glitch/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/narendra-glitch/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/narendra-glitch/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/narendra-glitch/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/narendra-glitch/DSA/tree/master/0283-move-zeroes) |
