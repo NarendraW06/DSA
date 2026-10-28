@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/narendra-glitch/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/narendra-glitch/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/narendra-glitch/DSA/tree/master/2706-buy-two-chocolates) |
+| [2708-maximum-strength-of-a-group](https://github.com/narendra-glitch/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/narendra-glitch/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/narendra-glitch/DSA/tree/master/2784-check-if-array-is-good) |
 | [2942-find-words-containing-character](https://github.com/narendra-glitch/DSA/tree/master/2942-find-words-containing-character) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/narendra-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/narendra-glitch/DSA/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/narendra-glitch/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2708-maximum-strength-of-a-group](https://github.com/narendra-glitch/DSA/tree/master/2708-maximum-strength-of-a-group) |
 ## Recursion
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/narendra-glitch/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/narendra-glitch/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2706-buy-two-chocolates](https://github.com/narendra-glitch/DSA/tree/master/2706-buy-two-chocolates) |
+| [2708-maximum-strength-of-a-group](https://github.com/narendra-glitch/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [2784-check-if-array-is-good](https://github.com/narendra-glitch/DSA/tree/master/2784-check-if-array-is-good) |
 | [3467-transform-array-by-parity](https://github.com/narendra-glitch/DSA/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/narendra-glitch/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/narendra-glitch/DSA/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/narendra-glitch/DSA/tree/master/2427-number-of-common-factors) |
+| [2708-maximum-strength-of-a-group](https://github.com/narendra-glitch/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/narendra-glitch/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Prime Factorization
 |  |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/narendra-glitch/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/narendra-glitch/DSA/tree/master/0509-fibonacci-number) |
+| [2708-maximum-strength-of-a-group](https://github.com/narendra-glitch/DSA/tree/master/2708-maximum-strength-of-a-group) |
 ## Memoization
 |  |
 | ------- |
@@ -310,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2706-buy-two-chocolates](https://github.com/narendra-glitch/DSA/tree/master/2706-buy-two-chocolates) |
+| [2708-maximum-strength-of-a-group](https://github.com/narendra-glitch/DSA/tree/master/2708-maximum-strength-of-a-group) |
 ## Brainteaser
 |  |
 | ------- |
@@ -335,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/narendra-glitch/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [2708-maximum-strength-of-a-group](https://github.com/narendra-glitch/DSA/tree/master/2708-maximum-strength-of-a-group) |
 <!---LeetCode Topics End-->
