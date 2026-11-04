@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/narendra-glitch/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/narendra-glitch/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/narendra-glitch/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/narendra-glitch/DSA/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0989-add-to-array-form-of-integer](https://github.com/narendra-glitch/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/narendra-glitch/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/narendra-glitch/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/narendra-glitch/DSA/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/narendra-glitch/DSA/tree/master/0657-robot-return-to-origin) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/narendra-glitch/DSA/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1688-count-of-matches-in-tournament](https://github.com/narendra-glitch/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/narendra-glitch/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/narendra-glitch/DSA/tree/master/1929-concatenation-of-array) |
