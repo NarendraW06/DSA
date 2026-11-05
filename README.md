@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-sum-of-even-numbers-after-queries](https://github.com/narendra-glitch/DSA/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0989-add-to-array-form-of-integer](https://github.com/narendra-glitch/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/narendra-glitch/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/narendra-glitch/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/narendra-glitch/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/narendra-glitch/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/narendra-glitch/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/narendra-glitch/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/narendra-glitch/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/narendra-glitch/DSA/tree/master/0633-sum-of-square-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/narendra-glitch/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/narendra-glitch/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/narendra-glitch/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/narendra-glitch/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/narendra-glitch/DSA/tree/master/0633-sum-of-square-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/narendra-glitch/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/narendra-glitch/DSA/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/narendra-glitch/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/narendra-glitch/DSA/tree/master/2396-strictly-palindromic-number) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/narendra-glitch/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/narendra-glitch/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/narendra-glitch/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/narendra-glitch/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/narendra-glitch/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/narendra-glitch/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/narendra-glitch/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
