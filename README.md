@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/narendra-glitch/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/narendra-glitch/DSA/tree/master/2784-check-if-array-is-good) |
 | [2942-find-words-containing-character](https://github.com/narendra-glitch/DSA/tree/master/2942-find-words-containing-character) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/narendra-glitch/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/narendra-glitch/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3248-snake-in-matrix](https://github.com/narendra-glitch/DSA/tree/master/3248-snake-in-matrix) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/narendra-glitch/DSA/tree/master/3427-sum-of-variable-length-subarrays) |
