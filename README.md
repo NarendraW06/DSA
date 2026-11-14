@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/narendra-glitch/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/narendra-glitch/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3248-snake-in-matrix](https://github.com/narendra-glitch/DSA/tree/master/3248-snake-in-matrix) |
+| [3364-minimum-positive-sum-subarray](https://github.com/narendra-glitch/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/narendra-glitch/DSA/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3467-transform-array-by-parity](https://github.com/narendra-glitch/DSA/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/narendra-glitch/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/narendra-glitch/DSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/narendra-glitch/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/narendra-glitch/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/narendra-glitch/DSA/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Divide and Conquer
 |  |
@@ -391,4 +393,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/narendra-glitch/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3364-minimum-positive-sum-subarray](https://github.com/narendra-glitch/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
