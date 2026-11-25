@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/narendra-glitch/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/narendra-glitch/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/narendra-glitch/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2352-equal-row-and-column-pairs](https://github.com/narendra-glitch/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/narendra-glitch/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/narendra-glitch/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/narendra-glitch/DSA/tree/master/2706-buy-two-chocolates) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/narendra-glitch/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/narendra-glitch/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/narendra-glitch/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/narendra-glitch/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/narendra-glitch/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2784-check-if-array-is-good](https://github.com/narendra-glitch/DSA/tree/master/2784-check-if-array-is-good) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/narendra-glitch/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/narendra-glitch/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/narendra-glitch/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/narendra-glitch/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2352-equal-row-and-column-pairs](https://github.com/narendra-glitch/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [3248-snake-in-matrix](https://github.com/narendra-glitch/DSA/tree/master/3248-snake-in-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/narendra-glitch/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/narendra-glitch/DSA/tree/master/3701-compute-alternating-sum) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/narendra-glitch/DSA/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/narendra-glitch/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/narendra-glitch/DSA/tree/master/1672-richest-customer-wealth) |
+| [2352-equal-row-and-column-pairs](https://github.com/narendra-glitch/DSA/tree/master/2352-equal-row-and-column-pairs) |
 ## Counting
 |  |
 | ------- |
