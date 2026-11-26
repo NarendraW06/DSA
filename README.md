@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/narendra-glitch/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/narendra-glitch/DSA/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/narendra-glitch/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3360-stone-removal-game](https://github.com/narendra-glitch/DSA/tree/master/3360-stone-removal-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/narendra-glitch/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/narendra-glitch/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/narendra-glitch/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/narendra-glitch/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2352-equal-row-and-column-pairs](https://github.com/narendra-glitch/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [3248-snake-in-matrix](https://github.com/narendra-glitch/DSA/tree/master/3248-snake-in-matrix) |
+| [3360-stone-removal-game](https://github.com/narendra-glitch/DSA/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/narendra-glitch/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/narendra-glitch/DSA/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/narendra-glitch/DSA/tree/master/3925-concatenate-array-with-reverse) |
