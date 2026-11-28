@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-sum-of-even-numbers-after-queries](https://github.com/narendra-glitch/DSA/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0989-add-to-array-form-of-integer](https://github.com/narendra-glitch/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/narendra-glitch/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1331-rank-transform-of-an-array](https://github.com/narendra-glitch/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/narendra-glitch/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/narendra-glitch/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/narendra-glitch/DSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/narendra-glitch/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/narendra-glitch/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/narendra-glitch/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [1331-rank-transform-of-an-array](https://github.com/narendra-glitch/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/narendra-glitch/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/narendra-glitch/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/narendra-glitch/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/narendra-glitch/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/narendra-glitch/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/narendra-glitch/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1331-rank-transform-of-an-array](https://github.com/narendra-glitch/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/narendra-glitch/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/narendra-glitch/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/narendra-glitch/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
